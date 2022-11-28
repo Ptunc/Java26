@@ -18,5 +18,6 @@ public class java26 {
         if (top == a)
         System.out.println("mükemmel sayıdır.");
         else System.out.println("mükemmel sayı değildir.");
+        input.close();
     }
 }
